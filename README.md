@@ -69,18 +69,28 @@ Source: [Plant Disease Recognition Dataset on Kaggle](https://www.kaggle.com/dat
    - Confusion Matrices
     
    - Precision, Recall, F1-score per class
-     
+
+  
  **Accuracy Comparison** 
+ 
 ![Accuracy Comparison](assets/Accuracy_comparison.png)
+
 **Loss Comparison** 
+
 ![Loss Comparison](assets/Loss_Comparison.png)
 
 **Custom 5Layer CNN Metrics** 
+
 ![Custom_5Layer_CNN_Metrics](assets/Custom_CNN_metrics.png)
+
 **VGG-16 Metrics** 
+
 ![VGG-16_Metrics](assets/VGG16_metrics.png)
+
 **MobileNetV2 Metrics** 
+
 ![MobileNetV2_Metrics](assets/MobileNetV2_Metrics.png)
+
 
 
 ## 🔮 Future Work

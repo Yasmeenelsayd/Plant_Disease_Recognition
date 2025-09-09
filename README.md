@@ -2,7 +2,7 @@
 
 This project implements plant disease recognition using deep learning. It compares a Custom CNN, VGG16, and MobileNetV2 on the [Plant Disease Recognition Dataset](https://www.kaggle.com/datasets/rashikrahmanpritom/plant-disease-recognition-dataset).
 
-The models are trained and evaluated on three categories of plant diseases using TensorFlow/Keras with data augmentation, transfer learning, and performance comparison.
+The models are trained and evaluated on three categories of plant diseases (Healthy, Powdery, Rust), using TensorFlow/Keras with data augmentation, transfer learning, and performance comparison.
 
 ## 📂 Dataset
 
@@ -15,6 +15,7 @@ The dataset is organized into three splits:
   - Test → /Test/Test
 
 Each folder contains subdirectories representing the different disease classes.
+
 Source: [Plant Disease Recognition Dataset on Kaggle](https://www.kaggle.com/datasets/rashikrahmanpritom/plant-disease-recognition-dataset).
 
 ## ⚙️ Project Workflow
